@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ANTAGONZERO
+- 👋 Hi, I’m ANSH BHARDWAJ
 - 👀 I’m interested in APP development and game development
 - 🌱 I’m currently learning java and c++
 - 💞️ I’m looking to collaborate on any basics project which requires some basic knowledge of java and c++
